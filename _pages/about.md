@@ -87,6 +87,6 @@ Our team is exploring the connection between **gut health and brain health** in 
 
 <style>
   img:hover {
-    transform: scale(1.1); /* Zooms in the image to 110% */
+    transform: scale(3.1); /* Zooms in the image to 110% */
   }
 </style>

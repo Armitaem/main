@@ -24,7 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Armita Emami"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  
+  bio              : |
+    *Foodborne and Waterborne Diseases Research Center  
+    <br>
+    *Research Institute for Gastroenterology and Liver Diseases
+
   employer         : "SBMU***"
   uri              : # URL
   email            : "armitaemami1997@gmail.com" 

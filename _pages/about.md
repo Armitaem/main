@@ -78,7 +78,7 @@ We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, 
   </div>
   <div style="flex: 3; padding-left: 70px;">
 
-    Our team is exploring the connection between **gut health and brain health** in Alzheimer’s disease markers, studying how gut-derived compounds impact cellular processes related to neurodegeneration.
+    Our team is exploring the connection between gut health and brain health in Alzheimer’s disease markers, studying how gut-derived compounds impact <strong>cellular processes</strong> related to neurodegeneration.
   </div>
 </div>
 

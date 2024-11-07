@@ -1,100 +1,49 @@
 ---
 permalink: /
-title: "About"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-I am a **researcher in microbiology** at the *Research Institute for Gastroenterology and Liver Diseases*, specializing in **bioinformatics applications in cancer biology**. My work focuses on uncovering connections between our genes, microbiota, and immune and nervous systems to reveal new insights for health improvement and disease prevention.
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-## 🧬 Research Themes
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
-### 🦠 Microbiome Analysis and Disease Modeling
-- Investigating how gut microbes influence diseases, including **cancer** and **liver diseases**.
-
-### 💻 Gene Expression Profiling and Computational Biology
-- Utilizing bioinformatics techniques to explore molecular mechanisms in **gastrointestinal diseases**.
-
-### 💊 Microbiome Therapeutics and Drug Delivery
-- Developing models for microbiome-based therapies and studying **probiotic effects**, particularly on *Lactobacillus crispatus*.
-
-My research themes include:
-
-- **Microbiome Analysis and Disease Modeling**: Investigating how gut microbes influence disease, including cancer and liver diseases.
-- **Gene Expression Profiling and Computational Biology**: Utilizing bioinformatics techniques to explore molecular mechanisms in gastrointestinal diseases.
-- **Microbiome Therapeutics and Drug Delivery**: Developing models for microbiome-based therapies and studying probiotic effects, including projects on *Lactobacillus crispatus*.
-
-## 🎓 Education
-- Bachelor’s Degree from **Alzahra University**
-- Master’s Degree from **Azad Medical University of Tehran**
-
-In addition to my lab work, I also teach **biology**, helping students explore the molecular and cellular complexities of life. My academic background spans microbiology, molecular biology, and computational biology, enabling me to approach research holistically with a focus on **personalized medicine**.
-
----
-
-## 📚 Selected Publications
-
-- **Characterization of the Mucosal Microbiota in Patients with Nodular Lymphoid Hyperplasia with Concurrent Irritable Bowel Syndrome Compared to Healthy Controls**  
-  *Molecular Biology Reports*, Springer, 2023.  
-  [DOI: 10.1007/s11033-022-07974-1](https://doi.org/10.1007/s11033-022-07974-1)
-
-- **Characterization of Vaginal *Lactobacillus* Species as a Predictor of Fertility Among Iranian Women with Unexplained Recurrent Miscarriage Using Machine Learning Modeling**  
-  *Molecular Biology Reports*, Springer, 2023.  
-  [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
-
-- **The Human Oral Microbiota: A Gateway to Pancreatic Health and Disease and Revolutionary Therapeutic Strategies**  
-  *Submitted to Trends in Molecular Medicine*, 2024.  
-  *Currently under review*
-
-- **Protective Effects of Live and Pasteurized *Lactobacillus crispatus* Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells**  
-  *Under review in Molecular Biology Reports*, Springer, 2024.  
-  *Currently under review*
-
-- **Inhibitory Effects of Probiotic *Levilactobacillus brevis* IBRC-M10790 and Its Membrane Vesicles on Apoptosis and Inflammation Induced by *Clostridioides difficile* in Intestinal Epithelial Cells**  
-  *BMC Microbiology*, Springer, 2023.  
-  [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
-
----
-
-## 📰 News
-
-### 📅 October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
-We’re thrilled to announce the second phase of our project on **non-alcoholic fatty liver disease (NAFLD)** and the therapeutic potential of **Lactobacillus strains**. This phase focuses on RNA sequencing to identify specific non-coding RNAs responding to Lactobacillus therapy.
-
-### 📅 June 2024 – New Project Launched on Bacterial Toxins and Autophagy!
-Exciting news! We’ve launched a project to investigate **bacterial toxins and their effect on autophagy**, setting the stage for in vivo experiments to understand their influence on cellular processes.
-
-### 📅 February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
-Our soon-to-be-published findings in **Scientific Reports** reveal how specific microbiota compositions may enhance **athletic performance**.
-
-### 📅 November 2023 – Investigating *Akkermansia muciniphila*’s Role in Apoptosis in Intestinal Cells
-We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, on apoptosis in **Caco-2 cells**—a critical area for maintaining a healthy gut lining.
-
-### 📅 April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study
-Our team is exploring the connection between **gut health and brain health** in Alzheimer’s disease markers, studying how gut-derived compounds impact cellular processes related to neurodegeneration.
-
-
-
-
-
-<!-- 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
+The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+
+How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/armitaem.github.io/main//blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](armitaem.github.io/main/markdown/), the [growing wiki](https://github.com/academicpages/armitaem.github.io/main//wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/armitaem.github.io/main//discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

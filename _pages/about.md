@@ -71,3 +71,13 @@ We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, 
 Our team is exploring the connection between **gut health and brain health** in Alzheimer’s disease markers, studying how gut-derived compounds impact cellular processes related to neurodegeneration.
 
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <img src="images\8.jpg" alt="Gut-Brain Axis Study" width="150">
+  </div>
+  <div style="flex: 3; padding-left: 20px;">
+    ### 📅 April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study
+
+    Our team is exploring the connection between **gut health and brain health** in Alzheimer’s disease markers, studying how gut-derived compounds impact cellular processes related to neurodegeneration.
+  </div>
+</div>

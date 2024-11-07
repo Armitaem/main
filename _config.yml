@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Armita Emami"
   pronouns         : # example: "she/her"  
-  
+
   bio              : |
     *Foodborne and Waterborne Diseases Research Center  
     <br>
@@ -221,12 +221,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

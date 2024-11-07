@@ -19,11 +19,7 @@ I am a **researcher in microbiology** at the *Research Institute for Gastroenter
 ### 💊 Microbiome Therapeutics and Drug Delivery
 - Developing models for microbiome-based therapies and studying **probiotic effects**, particularly on *Lactobacillus crispatus*.
 
-My research themes include:
 
-- **Microbiome Analysis and Disease Modeling**: Investigating how gut microbes influence disease, including cancer and liver diseases.
-- **Gene Expression Profiling and Computational Biology**: Utilizing bioinformatics techniques to explore molecular mechanisms in gastrointestinal diseases.
-- **Microbiome Therapeutics and Drug Delivery**: Developing models for microbiome-based therapies and studying probiotic effects, including projects on *Lactobacillus crispatus*.
 
 ## 🎓 Education
 - Bachelor’s Degree from **Alzahra University**

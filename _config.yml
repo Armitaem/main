@@ -21,7 +21,7 @@ repository               : "github.com/Armitaem/main"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ArmitaPic.png"
+  avatar           : "images\image-alignment-300x200.jpg"
   name             : "Armita Emami"
   pronouns         : # example: "she/her"  
 

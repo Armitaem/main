@@ -59,15 +59,87 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 
 ### 📅 October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
 We’re thrilled to announce the second phase of our project on **non-alcoholic fatty liver disease (NAFLD)** and the therapeutic potential of **Lactobacillus strains**. This phase focuses on RNA sequencing to identify specific non-coding RNAs responding to Lactobacillus therapy.
+<div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
+  <div style="flex: 1;">
+    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+  </div>
+  <div style="flex: 3; padding-left: 70px;">
+
+    Our team is exploring the connection between gut health and brain health in Alzheimer’s disease markers, studying how gut-derived compounds impact <strong>cellular processes</strong> related to neurodegeneration.
+  </div>
+</div>
+
+<style>
+  img:hover {
+    transform: scale(3.1); /* Zooms in the image to 110% */
+  }
+</style>
+
+
+
+
+
 
 ### 📅 June 2024 – New Project Launched on Bacterial Toxins and Autophagy!
 Exciting news! We’ve launched a project to investigate **bacterial toxins and their effect on autophagy**, setting the stage for in vivo experiments to understand their influence on cellular processes.
+<div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
+  <div style="flex: 1;">
+    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+  </div>
+  <div style="flex: 3; padding-left: 70px;">
+
+    Our team is exploring the connection between gut health and brain health in Alzheimer’s disease markers, studying how gut-derived compounds impact <strong>cellular processes</strong> related to neurodegeneration.
+  </div>
+</div>
+
+<style>
+  img:hover {
+    transform: scale(3.1); /* Zooms in the image to 110% */
+  }
+</style>
+
+
+
+
+
 
 ### 📅 February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
-Our soon-to-be-published findings in **Scientific Reports** reveal how specific microbiota compositions may enhance **athletic performance**.
+<div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
+  <div style="flex: 1;">
+    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+  </div>
+  <div style="flex: 3; padding-left: 70px;">
+
+    Our soon-to-be-published findings in <strong> Scientific Reports </strong> reveal how specific microbiota compositions may enhance <strong> athletic performance </strong>.
+  </div>
+</div>
+
+<style>
+  img:hover {
+    transform: scale(3.1); /* Zooms in the image to 110% */
+  }
+</style>
+
+
+
 
 ### 📅 November 2023 – Investigating *Akkermansia muciniphila*’s Role in Apoptosis in Intestinal Cells
-We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, on apoptosis in **Caco-2 cells**—a critical area for maintaining a healthy gut lining.
+<div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
+  <div style="flex: 1;">
+    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+  </div>
+  <div style="flex: 3; padding-left: 70px;">
+    We’re studying the effects of <strong>Akkermansia muciniphila</strong>, a key gut bacterium, on apoptosis in <strong>Caco-2 cells</strong>—a critical area for maintaining a healthy gut lining.
+
+  </div>
+</div>
+
+<style>
+  img:hover {
+    transform: scale(3.1); /* Zooms in the image to 110% */
+  }
+</style>
+
 
 
 

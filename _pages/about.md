@@ -13,13 +13,16 @@ I am a **researcher in Microbiology** at the *Research Institute for Gastroenter
 ## 🧬 Research Themes
 
 ### 🦠 Microbiome Analysis and Disease Modeling
-- Investigating how gut microbes influence diseases, including **cancer** and **liver diseases**.
+- Investigating how gut microbes influence diseases, including **cancer**, **liver diseases**, and **neurodegenerative diseases**.
+- Skills: Molecular assays, cell culture, bacterial assessment, Cloning, CRISPR/Cas9
 
 ### 💻 Gene Expression Profiling and Computational Biology
 - Utilizing bioinformatics techniques to explore molecular mechanisms in **gastrointestinal diseases**.
+- Skills:	Genetic engineering, RNA-seq analysis, single-cell analysis, protein engineering, machine learning, databases and SQL for data sciences, python, NGS analysis
 
 ### 💊 Microbiome Therapeutics and Drug Delivery
 - Developing models for microbiome-based therapies and studying **probiotic effects**, particularly on *Lactobacillus crispatus*.
+- Skills: Protein engineering, probiotic engineering, fecal microbiota transplantation
 
 
 

@@ -39,6 +39,10 @@ In addition to my lab work, I also teach **biology**, helping students explore t
   *Molecular Biology Reports*, Springer, 2023.  
   [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
 
+- **Inhibitory Effects of Probiotic *Levilactobacillus brevis* IBRC-M10790 and Its Membrane Vesicles on Apoptosis and Inflammation Induced by *Clostridioides difficile* in Intestinal Epithelial Cells**  
+  *BMC Microbiology*, Springer, 2023.  
+  [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)  
+
 - **The Human Oral Microbiota: A Gateway to Pancreatic Health and Disease and Revolutionary Therapeutic Strategies**  
   *Submitted to Trends in Molecular Medicine*, 2024.  
   *Currently under review*
@@ -46,10 +50,6 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 - **Protective Effects of Live and Pasteurized *Lactobacillus crispatus* Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells**  
   *Under review in Molecular Biology Reports*, Springer, 2024.  
   *Currently under review*
-
-- **Inhibitory Effects of Probiotic *Levilactobacillus brevis* IBRC-M10790 and Its Membrane Vesicles on Apoptosis and Inflammation Induced by *Clostridioides difficile* in Intestinal Epithelial Cells**  
-  *BMC Microbiology*, Springer, 2023.  
-  [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
 
 ---
 

@@ -53,7 +53,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
   *Currently under review*
 
 - **Protective Effects of Live and Pasteurized *Lactobacillus crispatus* Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells**  
-  *Under review in Folia Microbiologica*, Springer, 2024.  
+  *Under review in Folia Microbiologica*, 2024.  
   *Currently under review*
 
 ---
@@ -108,7 +108,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images\Figure 1-svg.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images/Figure 2 .png" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
 

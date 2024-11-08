@@ -105,7 +105,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images\Upcoming Publication.png" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images\Figure 1-svg.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
 

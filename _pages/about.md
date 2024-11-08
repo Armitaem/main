@@ -125,7 +125,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 
 
 
-### 📅 November 2023 – Investigating *Akkermansia muciniphila*’s Role in Apoptosis in Intestinal Cells
+### 📅 November 2023 – Investigating *Akkermansia muciniphila*’s Role in Apoptosis in Intestinal Cancer Cells
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
     <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">

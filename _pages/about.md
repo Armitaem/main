@@ -128,7 +128,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 November 2023 – Investigating *Akkermansia muciniphila*’s Role in Apoptosis in Intestinal Cancer Cells
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images/akker.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
     We’re studying the effects of <strong>Akkermansia muciniphila</strong>, a key gut bacterium, on apoptosis in <strong>Caco-2 cells</strong>—a critical area for maintaining a healthy gut lining.

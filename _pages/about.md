@@ -25,14 +25,14 @@ I am a **researcher in Microbiology** at the *Research Institute for Gastroenter
 - Skills: Protein engineering, probiotic engineering, fecal microbiota transplantation
 
 
-
+<!-- 
 ## 🎓 Education
 - Master’s Degree from **Azad Medical University of Tehran**
 - Bachelor’s Degree from **Alzahra University**
 
 In addition to my lab work, I also teach **biology**, helping students explore the molecular and cellular complexities of life. My academic background spans microbiology, molecular biology, and computational biology, enabling me to approach research holistically with a focus on **personalized medicine**.
 
----
+--- -->
 
 ## 📰 News
 

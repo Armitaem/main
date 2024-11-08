@@ -1,3 +1,4 @@
+<div style="background-color: #f0f4f8; padding: 20px; border-radius: 8px;">
 ---
 permalink: /
 title: "About"
@@ -87,3 +88,5 @@ We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, 
     transform: scale(3.1); /* Zooms in the image to 110% */
   }
 </style>
+
+</div>

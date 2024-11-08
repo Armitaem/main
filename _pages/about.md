@@ -60,7 +60,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images\exploring the role.png" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
 
@@ -105,7 +105,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images\Upcoming Publication.png" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
 
@@ -147,7 +147,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
 ### 📅 April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study
 <div style="display: flex; align-items: flex-start; margin-bottom: 70px;">
   <div style="flex: 1;">
-    <img src="images/8.jpg" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
+    <img src="images\alzimer.png" alt="Gut-Brain Axis Study" width="350" style="transition: transform 0.3s; cursor: pointer;">
   </div>
   <div style="flex: 3; padding-left: 70px;">
 

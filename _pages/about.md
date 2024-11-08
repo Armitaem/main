@@ -50,7 +50,7 @@ In addition to my lab work, I also teach **biology**, helping students explore t
   *Currently under review*
 
 - **Protective Effects of Live and Pasteurized *Lactobacillus crispatus* Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells**  
-  *Under review in Molecular Biology Reports*, Springer, 2024.  
+  *Under review in Folia Microbiologica*, Springer, 2024.  
   *Currently under review*
 
 ---

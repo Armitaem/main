@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a **researcher in Microbiology** at the *Research Institute for Gastroenterology and Liver Diseases*, specializing in **Bioinformatics applications in Cancer Biology**. My work focuses on uncovering connections between our genes, microbiota, and immune and nervous systems to reveal new insights for health improvement and disease prevention.
+I am a **researcher in Microbiology** at the *Research Institute for Gastroenterology and Liver Diseases*, specializing in **Bioinformatics applications in Cellular and Molecular Biology**. My work focuses on uncovering connections between our genes, microbiota, and immune and nervous systems to reveal new insights for health improvement and disease prevention.
 
 ## 🧬 Research Themes
 

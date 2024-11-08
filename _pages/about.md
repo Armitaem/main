@@ -1,4 +1,3 @@
-<div style="background-color: #f0f4f8; padding: 20px; border-radius: 8px;">
 ---
 permalink: /
 title: "About"
@@ -7,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
+<div style="background-color: #f0f4f8; padding: 20px; border-radius: 8px;">
+
+
 I am a **researcher in Microbiology** at the *Research Institute for Gastroenterology and Liver Diseases*, specializing in **Bioinformatics applications in Cancer Biology**. My work focuses on uncovering connections between our genes, microbiota, and immune and nervous systems to reveal new insights for health improvement and disease prevention.
 
 ## 🧬 Research Themes
@@ -20,7 +25,7 @@ I am a **researcher in Microbiology** at the *Research Institute for Gastroenter
 ### 💊 Microbiome Therapeutics and Drug Delivery
 - Developing models for microbiome-based therapies and studying **probiotic effects**, particularly on *Lactobacillus crispatus*.
 
-
+</div>
 
 ## 🎓 Education
 - Bachelor’s Degree from **Alzahra University**
@@ -88,5 +93,3 @@ We’re studying the effects of *Akkermansia muciniphila*, a key gut bacterium, 
     transform: scale(3.1); /* Zooms in the image to 110% */
   }
 </style>
-
-</div>

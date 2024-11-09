@@ -18,7 +18,11 @@ I am a **researcher in Microbiology** at the *Research Institute for Gastroenter
 
 ### 💻 Gene Expression Profiling and Computational Biology
 - Utilizing bioinformatics techniques to explore molecular mechanisms in **gastrointestinal diseases**.
-- Skills:	Genetic engineering, RNA-seq analysis, single-cell analysis, protein engineering, machine learning, databases and SQL for data sciences, python, NGS analysis
+- Skills:	Genetic engineering, protein engineering, machine learning, databases and SQL for data sciences, python, NGS analysis
+
+### 💻 Next Generation Sequencing
+- Using **RNA-seq analysis** and **single-cell analysis**
+- Skills: Quality control with FASTQC and MultiQC, trimming with Trimmomatic, mapping with HISAT2, quantification with featureCounts, differential expression analysis using Galaxy and Linux and Python, visualization of differential expression analysis with R, and pathway enrichment using Enrichr
 
 ### 💊 Microbiome Therapeutics and Drug Delivery
 - Developing models for microbiome-based therapies and studying **probiotic effects**, particularly on *Lactobacillus crispatus*.
